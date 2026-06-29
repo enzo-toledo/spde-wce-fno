@@ -49,3 +49,6 @@ Thumbs.db
 # Extras para ir afinando:
 *.png
 *.jpg
+
+# resultados:
+outputs/
